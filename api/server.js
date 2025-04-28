@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 8080;
 
-app.get('/api/server', (req, res) => {
+app.get('/', (req, res) => {
   res.json(
     {message:{
         products:[
