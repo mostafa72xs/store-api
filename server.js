@@ -14,7 +14,7 @@ app.get('/api', (req, res) => {
         {
             name:'Black Suit',
             id:1,
-            img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzNDg8vSLnezRdl-tkCbI3vRJFbQ32ZsVPUNXIWZz201b0Iek8UJFmxYpvtYG8RfgiDk&usqp=CAU',
+            img:'https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/71/915742/1.jpg?7925',
             price: 199.99,
             brand:'TED BAKER'
         },
